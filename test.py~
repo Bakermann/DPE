@@ -1,0 +1,4 @@
+import numpy as np
+import pandas as pd
+
+pd.read_sql('dpe_logement_202103.sql')
